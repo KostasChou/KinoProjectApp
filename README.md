@@ -1,3 +1,17 @@
+# Kino Lottery Project
+
+This is a C# project made during the PeopleCert's coding bootcamp. It is a console application about a Kino Lottery where a player can choose different numbers and participate in one or multiple lotteries, view various statistics about one or multiple lotteries, and many more functionalities.
+
+## Installation
+
+1. Clone this repository to your local system.
+2. Open the `KinoProjectApp.sln` with Visual Studio.
+3. Build and run the project.
+
+---
+The project Instructions provided by the bootcamp's instructor are shown below:
+
+```
 # KINO LOTTERY PROJECTS INSTRUCTIONS
 
 YOU NEED TO CREATE A CONSOLE APPLICATION ABOUT A KINO LOTTERY WHICH WILL IMPLEMENT THE FOLLOWING:
@@ -59,3 +73,4 @@ THE FOLLOWING STATISTICS SHOULD BE AVAILABLE:
 - 3 LEAST FREQUENTLY SEEN NUMBERS IN LOTTERIES
 - THE MOST FREQUENTLY SEEN NUMBER AS KINO BONUS NUMBER
 - THE LEAST FREQUENTLY SEEN NUMBER AS KINO BONUS NUMBER
+```
