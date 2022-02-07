@@ -5,12 +5,6 @@ VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KinoProject", "KinoProject\KinoProject.csproj", "{3B0B96F8-4A95-4FF5-8592-096C422BDBDD}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{11820080-ACD3-490C-B4DB-9F5B6FBB70DB}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\..\Desktop\KinoNotes.txt = ..\..\..\Desktop\KinoNotes.txt
-		..\..\..\Desktop\KinoProject5thStage.txt = ..\..\..\Desktop\KinoProject5thStage.txt
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
